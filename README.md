@@ -14,7 +14,8 @@ password for both repositories is the same, as they will share the use of an env
 variable.
 
 ```
-Need to add the restic command for init here.
+restic init --repo /path/to/localrepo
+restic init --repo /path/to/remoterepo
 ```
 
 Note that this is not the most secure way to store a password, it does however help contain the

@@ -1,4 +1,4 @@
-### macos-restic-backup
+### macOS Restic Backup
 Bash scripts to automatically run Restic backups when the repository is available. 
 
 The script ensures that the specified Restic Repository is available and then initiates
